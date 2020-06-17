@@ -1,5 +1,3 @@
-Desafio 01 LaunchBase 
+Desafios do segundo módulo do Bootcamp Launchbase 🚀🚀
 
 
-
-Programar a logica para calculo de IMC e Aposentadoria utilizando Const, IF e ELSE. 
