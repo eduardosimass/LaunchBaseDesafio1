@@ -1,4 +1,6 @@
-🚀 Sobre o desafio
+🚀 
+
+Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:
 
 Variáveis;
@@ -49,10 +51,6 @@ if (condicao1) {
 } else {
   // Condição 1 não passou
 }
-📆 Entrega
-Esse desafio não precisa ser entregue e não receberá correção, mas você pode ver um exemplo de solução aqui. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
-📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Feito com 💜 by Rocketseat 👋 Entre na nossa comunidade!
+
